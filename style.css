@@ -359,6 +359,10 @@ section{
 	position: relative;
 	min-height: 659px;
 }
+.container-fluid{
+	display:flex;
+	justify-content:center;
+}
 
 .intro-box{
 	height: 100vh;
